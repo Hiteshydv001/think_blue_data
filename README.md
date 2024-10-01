@@ -23,16 +23,7 @@ The annotated dataset plays a critical role in training the predictive model, wh
 
 Here are some images related to the project:
 
-![Image 1](path/to/image1.jpg)
-![Image 2](path/to/image2.jpg)
-![Image 3](path/to/image3.jpg)
-![Image 4](path/to/image4.jpg)
-
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+![Image 1](https://github.com/Hiteshydv001/think_blue_data/blob/main/th1.png)
+![Image 2](https://github.com/Hiteshydv001/think_blue_data/blob/main/th4.png)
+![Image 3](https://github.com/Hiteshydv001/think_blue_data/blob/main/th2.png)
+![Image 4](https://github.com/Hiteshydv001/think_blue_data/blob/main/th3.png)
